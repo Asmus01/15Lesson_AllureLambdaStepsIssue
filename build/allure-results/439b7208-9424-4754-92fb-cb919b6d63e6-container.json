@@ -1,0 +1,1 @@
+{"uuid":"439b7208-9424-4754-92fb-cb919b6d63e6","name":"TestIssueRepository","children":["bb1d76db-b022-44a8-8058-5c6fee0ff6dc"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1715163172036,"stop":1715163172056}],"afters":[],"start":1715163171956,"stop":1715163172475}
